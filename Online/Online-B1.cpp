@@ -4,8 +4,8 @@
 #ifdef __linux__
     #include<GL/glut.h>
 #elif WIN32
-    #include <GL/windows.h>
-    #include <glut.h>
+    #include <windows.h>
+    #include <GL/glut.h>
 #endif
 
 void keyboardListener(unsigned char, int, int);

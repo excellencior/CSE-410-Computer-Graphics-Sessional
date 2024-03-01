@@ -1,4 +1,4 @@
 #!/bin/bash
 
-g++ 1905096.cpp -o online -lglut -lGLU -lGL
-./online
+g++ Online-B1.cpp -o demo.exe -lfreeglut -lglew32 -lopengl32 -lglu32
+start demo.exe
