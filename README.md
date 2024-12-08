@@ -10,6 +10,6 @@ This course particularly is very interesting, because I learned how displays ren
 🧰 **Library:** Bitmap
 
 ## Some samples
-<img src="Offline-3/Output_11.bmp" alt="drawing1" width="200"/>
-<img src="Offline-3/Output_14.bmp" alt="drawing2" width="200"/>
-<img src="Offline-3/Output_15.bmp" alt="drawing3" width="200"/>
+<img src="Offline-3/Output_11.bmp" alt="drawing1" width="300"/>
+<img src="Offline-3/Output_14.bmp" alt="drawing2" width="300"/>
+<img src="Offline-3/Output_12.bmp" alt="drawing3" width="300"/>
