@@ -10,3 +10,4 @@ This course particularly is very interesting, because I learned how displays ren
 🧰 **Library:** Bitmap
 
 ## Some samples
+![Ray Tracing - 1](Offline-3/Output_11.bmp)
